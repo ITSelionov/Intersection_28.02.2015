@@ -1,0 +1,5 @@
+S:\Step\Homeworks\C#\Homework#6(28.02.2015)\Inertsect\Inertsect\bin\Debug\Inertsect.exe.config
+S:\Step\Homeworks\C#\Homework#6(28.02.2015)\Inertsect\Inertsect\bin\Debug\Inertsect.exe
+S:\Step\Homeworks\C#\Homework#6(28.02.2015)\Inertsect\Inertsect\bin\Debug\Inertsect.pdb
+S:\Step\Homeworks\C#\Homework#6(28.02.2015)\Inertsect\Inertsect\obj\Debug\Inertsect.exe
+S:\Step\Homeworks\C#\Homework#6(28.02.2015)\Inertsect\Inertsect\obj\Debug\Inertsect.pdb
